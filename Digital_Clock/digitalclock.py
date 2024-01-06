@@ -1,3 +1,5 @@
+# Code for Digital Clock
+
 from tkinter import Label, Tk
 import time
 app_window = Tk()
