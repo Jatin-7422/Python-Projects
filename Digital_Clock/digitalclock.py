@@ -20,5 +20,3 @@ def digital_clock():
 
 digital_clock()
 app_window.mainloop()
-
-
